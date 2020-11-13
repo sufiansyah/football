@@ -1,0 +1,37 @@
+{
+    "short_name": "CHAMPION",
+    "name": "FOOTBALL CHAMPION",
+    "description": "SubMission 02",
+    "gcm_sender_id": "467233180487",
+    "icons": [
+      {
+        "src": "/asset/Football-16.png",
+        "type":"image/png",
+        "sizes": "16x16",
+        "purpose":"any maskable"
+      },
+      {
+        "src": "/asset/Football-32.png",
+        "type": "image/png",
+        "sizes": "32x32",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/asset/Football-192.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/asset/Football-512.png",
+        "type": "image/png",
+        "sizes": "512x512",
+        "purpose": "any maskable"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#4521f3",
+    "display": "standalone",
+    "theme_color": "#4521f3"
+
+  }
